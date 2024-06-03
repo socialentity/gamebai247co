@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+Game Bài Đổi Thưởng
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Game Bài là một trong những cổng `game bài đổi thưởng <https://gamebai247.co/>`_ uy tín hàng đầu thị trường hiện nay, thu hút đông đảo người chơi. Nhà cái được cấp phép hoạt động bởi tổ chức cá cược uy tín PAGCOR, đảm bảo tính minh bạch và an toàn. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Wesite: `https://gamebai247.co/ <https://gamebai247.co/>`_
 
-.. note::
+Địa chỉ: 89 Tháp Bà, Vĩnh Thọ, Nha Trang, Khánh Hòa 650000, Việt Nam
 
-   This project is under active development.
+Zipcode: 650000
 
-Contents
---------
+Email: gamebai247@gmail.com
 
-.. toctree::
+SĐT: 0988588002
 
-   usage
-   api
+Hastag: #game_bai_247  #game_bai_doi_thuong #gamedoithuong #gamebai #gamebaidoithuonguytin #topdoithuong #topgamebaidoithuong #top10gamebaidoithuong
